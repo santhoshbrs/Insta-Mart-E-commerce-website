@@ -1,7 +1,5 @@
 # Insta Mart E-commerce website
-Repository Name: Insta Mart - E-commerce Web Application
 
-Description:
 Welcome to Insta Mart, your ultimate destination for online shopping! Insta Mart is a web application crafted using HTML, CSS, and JavaScript, designed to deliver a comprehensive e-commerce experience with a focus on user satisfaction.
 
 Key Features:
