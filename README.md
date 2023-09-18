@@ -14,7 +14,7 @@ A web-based e-commerce application, allowing users to browse and purchase produc
 
 ## Demo
 
-![Demo Screenshot](src/demo-screenshot.png)
+![Demo Screenshot](images/demo.png)
 
 [Live Demo](https://santhoshbrs.github.io/Insta-Mart-E-commerce-website/)
 
