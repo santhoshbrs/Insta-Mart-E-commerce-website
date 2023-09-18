@@ -1,6 +1,6 @@
 # InstaMart E-commerce Website
 
-![Project Logo](src/logo.png) <!-- Add a logo or relevant image here -->
+![Project Logo](images/instacart.png) <!-- Add a logo or relevant image here -->
 
 A web-based e-commerce application, allowing users to browse and purchase products online. This platform provides a seamless shopping experience with various features and an easy-to-navigate user interface.
 
