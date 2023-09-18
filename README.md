@@ -16,7 +16,7 @@ A web-based e-commerce application, allowing users to browse and purchase produc
 
 ![Demo Screenshot](src/demo-screenshot.png)
 
-[Live Demo](https://instamart-ecommerce.netlify.app/)
+[Live Demo](https://santhoshbrs.github.io/Insta-Mart-E-commerce-website/)
 
 ## Features
 
